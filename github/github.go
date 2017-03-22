@@ -22,7 +22,7 @@ import (
 	"golang.org/x/oauth2"
 )
 
-const GitKeeperToken string = "db414b90c315d8c9523b4080f802e9c3c978c428"
+const GitKeeperToken string = "88888"
 
 type Config struct {
 	Token      string
